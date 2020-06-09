@@ -17,5 +17,5 @@ GRIDV3_ID_VENDOR = 0x1e71
 GRIDV3_ID_PRODUCT = 0x1711
 
 #Cpu sensor name ex:{coretmep, k10temp, ...}
-CPU_TEMP_SENSOR = 'k10temp'
+CPU_TEMP_SENSOR = 'pch_cannonlake'
 
